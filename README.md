@@ -1,4 +1,6 @@
 # Employees-Management
+![download](https://user-images.githubusercontent.com/68380691/112720989-d2d75a00-8f01-11eb-8945-0c06c0a85215.png)
+
 Developing a prototype web application for National Statistics Wales using Springboot. The application was created within a strict deadline of 4 weeks. As scrum master, managed the team of 3, ensuring progress was tracked through burn-down chart and cumulative flow diagrams. Arranged and structured sprints by hosting daily scrums and retrospectives. Personally developed end to end clean architecture for the following features: 
 ▪️Login and registration 
 ▪️Facebook Authentication - OAuth2 
